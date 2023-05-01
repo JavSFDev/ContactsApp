@@ -1,5 +1,5 @@
 # ContactsApp
-![](https://github.com/brytebee/ContactsApp)
+![](https://github.com/JavSFDev/ContactsApp)
 
 ## Description
 
@@ -36,24 +36,7 @@ A browser and internet connection.
 * ...
 
 
-## Author
-
-👤 **Atsighi Bright**
-
-- GitHub: [@brytebee](https://github.com/brytebee)
-- Twitter: [@brytebee](https://twitter.com/brytebee)
-- LinkedIn: [brytebee](https://www.linkedin.com/in/brytebee/)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [Issue page](https://github.com/brytebee/ContactsApp/issues/new).
-
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Shout out to John Elder [https://youtu.be/fmyvWz5TUWg] for the tutorial.
